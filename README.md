@@ -36,6 +36,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da programação dedicado a
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Wordpress]([https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+)&nbsp;
+
 
 &nbsp;
 &nbsp;
