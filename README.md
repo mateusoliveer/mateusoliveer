@@ -32,14 +32,11 @@ Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da programação dedicado a
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 #### Studying in this moment:
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 #### Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Dbeaver](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdbeaver%2Fdbeaver&psig=AOvVaw26BXKFK-wGjlgAuueUF-fi&ust=1696559979756000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi90Mnw3YEDFQAAAAAdAAAAABAE)&nbsp;
 
 #### Workstation Tools:
 
