@@ -1,5 +1,5 @@
 
-<p align="center">Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da programação dedicado a aprender e aprimorar minhas habilidades em diversas tecnologias. Neste repositório, você encontrará uma variedade de projetos, desde pequenos scripts até aplicativos mais complexos, que refletem minha jornada de aprendizado.</p>&nbsp;
+<p align="center">Welcome to my GitHub profile! I'm Mateus Oliver, a passionate programmer on a journey to master the art of coding. In this repository, you'll find a diverse collection of projects reflecting my dedication to learning and exploring various technologies.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mateusoliveer&theme=radical&mode=weekly" />
