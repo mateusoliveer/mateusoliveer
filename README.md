@@ -1,7 +1,6 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src=";
 
->Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da programação dedicado a aprender e aprimorar minhas habilidades em diversas tecnologias. Neste repositório, você encontrará uma variedade de projetos, desde pequenos scripts até aplicativos mais complexos, que refletem minha jornada de aprendizado.</p>&nbsp;
+p>Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da programação dedicado a aprender e aprimorar minhas habilidades em diversas tecnologias. Neste repositório, você encontrará uma variedade de projetos, desde pequenos scripts até aplicativos mais complexos, que refletem minha jornada de aprendizado.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
