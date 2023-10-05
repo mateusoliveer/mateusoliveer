@@ -1,6 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<img align="center" style="margin-bottom:100px" width=100% src=";
 
 <p align="center">Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da programação dedicado a aprender e aprimorar minhas habilidades em diversas tecnologias. Neste repositório, você encontrará uma variedade de projetos, desde pequenos scripts até aplicativos mais complexos, que refletem minha jornada de aprendizado.</p>&nbsp;
 
