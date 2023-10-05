@@ -1,4 +1,3 @@
-
 <p align="center">Welcome to my GitHub profile! I'm Mateus Oliver, a passionate programmer on a journey to master the art of coding. In this repository, you'll find a diverse collection of projects reflecting my dedication to learning and exploring various technologies.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
